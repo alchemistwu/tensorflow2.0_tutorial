@@ -1,3 +1,3 @@
 # tensorflow2.0_tutorial
 
-* 1. Install
+# * 1. Install

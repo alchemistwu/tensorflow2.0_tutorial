@@ -1,7 +1,7 @@
 # tensorflow2.0_tutorial
 
 ## 1. Install
-     * 1. if you already have a conda environment for tensorflow-gpu >= 1.13, then you can just clone this enviroment for using tensorflow-gpu2.0.
+    * 1. if you already have a conda environment for tensorflow-gpu >= 1.13, then you can just clone this enviroment for using tensorflow-gpu2.0.
       * 1. `conda create --name [name of your new environment] --clone [name of your current environment]`
       * 2. `pip install tensorflow-gpu==2.0.0-beta0`
       * [Trouble shooting]: It will probably raise an error `Cannot uninstall 'wrapt'.` Try the following steps:
